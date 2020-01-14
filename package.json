@@ -1,0 +1,26 @@
+{
+  "name": "porhacer",
+  "version": "0.0.1",
+  "description": "Este programa realiza un seguimiento a actividades diarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obetho/TodoApp.git"
+  },
+  "keywords": [
+    "ejemplos"
+  ],
+  "author": "Obeth Ortiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obetho/TodoApp/issues"
+  },
+  "homepage": "https://github.com/obetho/TodoApp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
